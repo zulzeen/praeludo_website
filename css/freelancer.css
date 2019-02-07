@@ -37,7 +37,7 @@ hr.star-dark:after {
   top: -.8em;
   display: inline-block;
   padding: 0 0.25em;
-  /*content: '\f005';*/
+  /*content: '\f35d';*/
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   font-size: 2em;
@@ -139,7 +139,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
-  color: #fff;
+  color: #18BC9C;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
@@ -472,4 +472,9 @@ hr.star-green:after {
   text-align: justify;
   color: #365C72;
   font-weight: bold;
+}
+
+.fa-external-link-alt {
+  font-size:0.6em;
+  vertical-align: super;
 }
