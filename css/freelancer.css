@@ -431,6 +431,11 @@ p.lead {
 	text-align: justify;
 }
 
+p.lead a {
+	color: white;
+	font-weight: bold;
+}
+
 .left {
 	text-align: left;
 }
@@ -474,7 +479,12 @@ hr.star-green:after {
   font-weight: bold;
 }
 
-.fa-external-link-alt {
+.fa-external-link-alt,
+.fa-linkedin {
   font-size:0.6em;
   vertical-align: super;
+}
+
+.fa-linkedin {
+  margin-left: -8px;
 }
