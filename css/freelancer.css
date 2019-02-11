@@ -488,3 +488,13 @@ hr.star-green:after {
 .fa-linkedin {
   margin-left: -8px;
 }
+
+.external {
+	display: block;
+	color: #365C71;
+}
+
+.external:hover {
+	text-decoration: none;
+	color: #18BC9C;
+}
